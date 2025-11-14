@@ -1,7 +1,7 @@
 {
   "name": "beautiful-portfolio",
   "version": "0.0.0",
-  "homepage": "https://jallen105.github.io/",
+  "homepage": "https://jallen105.github.io/Jonathan-portfolio/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
